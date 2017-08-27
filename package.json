@@ -1,0 +1,17 @@
+{
+  "name": "url-shortener-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.11.8",
+    "node-url-shortener": "^1.0.1",
+    "shorturl": "0.0.3",
+    "tinyurl": "^1.1.2"
+  }
+}
